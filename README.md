@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.16`
+Version: `1.0.17`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.16/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.17/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,14 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Complete owner Profile page redesign.
+- Owner can edit hostel name, owner, phone, address, website, username, and password.
+- Hostel logo upload supports crop after selection and 100 KB validation.
+- Hostel images upload supports maximum 6 images and 100 KB validation.
+- PhonePe QR upload supports 150 KB validation.
+- Logo now shows in the main menu and dashboard after saving.
+- Profile page shows logo, hostel images, PhonePe QR, and logout at bottom.
+- Added API support for `HostelRegistration`, `HostelImages`, `HostelLogos`, and `HostelPhonePayQR`.
 - Owner Add/Edit People now shows red required validation below Photo and Aadhaar upload boxes.
 - People action buttons moved below the people information for a cleaner mobile layout.
 - Owner can download people photo from the document view.

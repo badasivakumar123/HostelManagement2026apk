@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "build": 17,
+  "version": "1.0.17",
+  "build": 18,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.16/app-release.apk",
-  "message": "Hostel Management owner screen improved with red photo/Aadhaar required validation, cleaner people action buttons, and owner photo/Aadhaar open/download options."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.17/app-release.apk",
+  "message": "Complete owner profile editor added with hostel details, username/password update, cropped logo, 6 hostel images, PhonePe QR, dashboard/menu logo display, and validation."
 }
