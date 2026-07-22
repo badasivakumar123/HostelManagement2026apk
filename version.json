@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "build": 7,
+  "version": "1.0.7",
+  "build": 8,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.6/app-release.apk",
-  "message": "People registration now uses HostelPeopleInformation and HostelPeopleDocuments directly, with owner approval, people dashboard, and notifications."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.7/app-release.apk",
+  "message": "QR implementation cleaned: no HostelTenantRegistrationRequests usage; people registration uses HostelPeopleInformation and HostelPeopleDocuments only."
 }
