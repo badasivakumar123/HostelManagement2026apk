@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "build": 21,
+  "version": "1.0.21",
+  "build": 22,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.20/app-release.apk",
-  "message": "Dashboard payment fix added: payment schema is created before totals load, Collect Cash is available directly on dashboard, and people list has phone call button."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.21/app-release.apk",
+  "message": "Fixed rent dashboard and People Pay Rent schema setup, removed bad UTR index creation, and added cash collection directly from due/pending people list."
 }

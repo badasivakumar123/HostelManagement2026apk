@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.20`
+Version: `1.0.21`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.20/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.21/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Fixed incorrect filtered index issue for UTR setup.
+- Fixed People Pay Rent loading path so rent details and PhonePe QR can load after schema setup.
+- Need To Collect and Pending lists now have direct cash collection button per person.
+- Cash amount from list is capped to that person's pending balance.
 - Fixed dashboard `PaymentStatus` database column loading issue.
 - Dashboard now creates/updates payment schema before reading payment totals.
 - Added direct `Collect Cash` button on dashboard.
