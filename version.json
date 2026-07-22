@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
-  "build": 11,
+  "version": "1.0.11",
+  "build": 12,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.10/app-release.apk",
-  "message": "Fixed people registration submit crash, added clear API deployment message, and strengthened QR people registration database payload."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.11/app-release.apk",
+  "message": "Fixed owner People Approvals page messages, improved pending approval loading, and added owner notification bell on top screens."
 }

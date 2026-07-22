@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.10`
+Version: `1.0.11`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.10/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.11/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,9 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Fixed People Approvals page so API errors are visible to owner.
+- Improved pending people approval loading for older pending records.
+- Added owner notification bell with count on dashboard, hostel management, and approvals page.
 - Fixed people registration submit crash from empty/non-JSON live API response.
 - Added clear message when the latest .NET API is not deployed.
 - People registration now sends tenant ID and bed ID separately with the QR token.
@@ -51,6 +54,6 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Release Details
 
-Tag: `v1.0.10`
+Tag: `v1.0.11`
 
 Asset name: `app-release.apk`
