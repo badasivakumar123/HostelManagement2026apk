@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "build": 16,
+  "version": "1.0.16",
+  "build": 17,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.15/app-release.apk",
-  "message": "Owner Add/Edit People improved with gallery/image file photo selection, better validation, bed-rent default, and due day from join date."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.16/app-release.apk",
+  "message": "Hostel Management owner screen improved with red photo/Aadhaar required validation, cleaner people action buttons, and owner photo/Aadhaar open/download options."
 }

@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.15`
+Version: `1.0.16`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.15/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.16/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Owner Add/Edit People now shows red required validation below Photo and Aadhaar upload boxes.
+- People action buttons moved below the people information for a cleaner mobile layout.
+- Owner can download people photo from the document view.
+- Owner can open and download Aadhaar PDF from the document view.
 - Owner photo selection supports camera, gallery, and image file.
 - Owner Add Person rent defaults from selected bed rent.
 - Owner due day defaults from date of join and updates when join date changes.
