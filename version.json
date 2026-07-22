@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "build": 6,
+  "version": "1.0.6",
+  "build": 7,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.5/app-release.apk",
-  "message": "People registration QR, mandatory photo/details validation, and generated People ID like 1000-PEN-000001."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.6/app-release.apk",
+  "message": "People registration now uses HostelPeopleInformation and HostelPeopleDocuments directly, with owner approval, people dashboard, and notifications."
 }
