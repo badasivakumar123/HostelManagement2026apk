@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "build": 13,
+  "version": "1.0.13",
+  "build": 14,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.12/app-release.apk",
-  "message": "Existing person QR now opens People login directly. Empty-bed QR still opens People registration."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.13/app-release.apk",
+  "message": "Photo now saves only in people table with 100 KB limit. Aadhaar PDF saves in people documents with PDF-only 50 KB limit."
 }

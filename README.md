@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.12`
+Version: `1.0.13`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.12/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.13/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,11 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Photo saves only in `HostelPeopleInformation.PhotoBase64`.
+- Photo size is restricted to 100 KB.
+- Aadhaar card document uploads as PDF only.
+- Aadhaar PDF saves in `HostelPeopleDocuments`.
+- Aadhaar PDF size is restricted to 50 KB.
 - Existing person QR now opens People login directly.
 - Empty-bed QR still opens People registration.
 - People login QR works with People Unique ID or numeric People ID.
@@ -57,6 +62,6 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Release Details
 
-Tag: `v1.0.12`
+Tag: `v1.0.13`
 
 Asset name: `app-release.apk`
