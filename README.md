@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.18`
+Version: `1.0.19`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.18/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.19/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,16 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Added complete Rent Collection and Payment Verification module.
+- Owner menu renamed from Payments to Verify Payments.
+- Owner can collect cash as separate partial-payment transactions.
+- Tenant can submit UPI payment with amount, UTR, optional transaction ID, and screenshot.
+- UPI payments stay Pending Verification until accepted or matched by settlement import.
+- Owner can accept/reject pending online payments.
+- Owner can import settlement CSV and auto-match by UTR number and amount.
+- Added gateway import table support and payment audit logging for all actions.
+- Dashboard now separates cash collection, online collection, pending verification, verified payments, rejected payments, outstanding balance, and collection percentage.
+- People menu simplified to Dashboard, Profile, Complaints, Notifications, Verify Payments, and Logout.
 - Dashboard redesigned for selected-date rent collection.
 - Dashboard now compares selected date with each people's due day.
 - Need To Collect card opens due people list with unique ID and room rent.
