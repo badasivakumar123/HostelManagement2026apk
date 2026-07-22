@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.19`
+Version: `1.0.20`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.19/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.20/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Fixed dashboard `PaymentStatus` database column loading issue.
+- Dashboard now creates/updates payment schema before reading payment totals.
+- Added direct `Collect Cash` button on dashboard.
+- Added phone call button in dashboard people amount lists.
 - Added complete Rent Collection and Payment Verification module.
 - Owner menu renamed from Payments to Verify Payments.
 - Owner can collect cash as separate partial-payment transactions.
