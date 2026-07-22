@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "build": 4,
+  "version": "1.0.4",
+  "build": 5,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.3/app-release.apk",
-  "message": "Improved hostel management UI, QR with tenant and bed details, and safe monthly due-date logic."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.4/app-release.apk",
+  "message": "QR creation fix, better QR error messages, and safer registration database upgrade."
 }
