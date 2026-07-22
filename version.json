@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "build": 12,
+  "version": "1.0.12",
+  "build": 13,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.11/app-release.apk",
-  "message": "Fixed owner People Approvals page messages, improved pending approval loading, and added owner notification bell on top screens."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.12/app-release.apk",
+  "message": "Existing person QR now opens People login directly. Empty-bed QR still opens People registration."
 }
