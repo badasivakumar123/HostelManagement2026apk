@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.17`
+Version: `1.0.18`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.17/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.18/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,12 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Dashboard redesigned for selected-date rent collection.
+- Dashboard now compares selected date with each people's due day.
+- Need To Collect card opens due people list with unique ID and room rent.
+- Received Amount card opens paid people list with paid and remaining due amount.
+- Pending Amount card opens pending people list with paid and pending amount.
+- Removed old final summary section from dashboard.
 - Complete owner Profile page redesign.
 - Owner can edit hostel name, owner, phone, address, website, username, and password.
 - Hostel logo upload supports crop after selection and 100 KB validation.

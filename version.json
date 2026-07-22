@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "build": 18,
+  "version": "1.0.18",
+  "build": 19,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.17/app-release.apk",
-  "message": "Complete owner profile editor added with hostel details, username/password update, cropped logo, 6 hostel images, PhonePe QR, dashboard/menu logo display, and validation."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.18/app-release.apk",
+  "message": "Dashboard redesigned with selected-date due collection, clickable need-to-collect, received, and pending people lists with unique IDs and amounts."
 }
