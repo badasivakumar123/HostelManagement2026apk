@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.4`
+Version: `1.0.5`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.4/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.5/app-release.apk
 
 ## App Update JSON
 
@@ -19,6 +19,10 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 ## Latest Changes
 
 - Better hostel management screen UI.
+- People Registration QR wording.
+- Mandatory `*` fields and stronger validations.
+- People photo is required and shown in owner approval.
+- Generated People ID format like `1000-PEN-000001`.
 - QR creation fix.
 - QR opens cleanly from Add Person screen.
 - QR includes tenant ID, bed ID, and tenant person ID when available.
@@ -28,6 +32,6 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Release Details
 
-Tag: `v1.0.4`
+Tag: `v1.0.5`
 
 Asset name: `app-release.apk`
