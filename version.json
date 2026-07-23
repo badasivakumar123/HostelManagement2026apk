@@ -1,7 +1,7 @@
 {
-  "version": "1.0.28",
-  "build": 29,
+  "version": "1.0.29",
+  "build": 30,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.28/app-release.apk",
-  "message": "Owner Edit People now shows normal Date Of Join and Monthly Due Day fields from DB, without lock or extra DB note."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.29/app-release.apk",
+  "message": "Owner Add/Edit People now places Photo and Aadhaar after Hostel Rent and shows join-date safety warning below Date Of Join in red."
 }
