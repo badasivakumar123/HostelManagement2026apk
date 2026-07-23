@@ -1,7 +1,7 @@
 {
-  "version": "1.0.33",
-  "build": 34,
+  "version": "1.0.34",
+  "build": 35,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.33/app-release.apk",
-  "message": "Fixed Owner Issues page and dashboard issue counts for server/local date differences."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.34/app-release.apk",
+  "message": "Added Owner dashboard monthly graph for rent collection, pending amount, and issues overview."
 }

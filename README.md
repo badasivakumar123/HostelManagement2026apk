@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.33`
+Version: `1.0.34`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.33/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.34/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Added Owner dashboard monthly overview graph based on selected date month.
+- Monthly graph shows daily collected amount, pending amount, and issues.
+- Added monthly totals for rent, collected, pending, issues, and collection percentage.
+- Added monthly issue split for Pending, Solved, and Rejected.
 - Fixed Owner Issues page loading when server date and mobile local date differ.
 - Fixed Owner dashboard issue counts for Pending, Solved, Rejected, and Total.
 - Owner Issues page now shows API error messages instead of silently showing empty data.
@@ -175,6 +179,6 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Release Details
 
-Tag: `v1.0.33`
+Tag: `v1.0.34`
 
 Asset name: `app-release.apk`
