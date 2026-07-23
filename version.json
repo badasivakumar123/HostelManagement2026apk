@@ -1,7 +1,7 @@
 {
-  "version": "1.0.24",
-  "build": 25,
+  "version": "1.0.25",
+  "build": 26,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.24/app-release.apk",
-  "message": "Fixed Verify Payments tab text color and improved settlement filter/list UI for mobile."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.25/app-release.apk",
+  "message": "Fixed payment audit truncation, blocked re-verifying accepted payments, and strengthened UTR/transaction duplicate checks."
 }
