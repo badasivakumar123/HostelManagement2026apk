@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.27`
+Version: `1.0.28`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.27/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.28/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,12 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Owner Edit People now uses normal user-friendly fields only.
+- Removed the extra saved DB values note from edit form.
+- Removed `Monthly Due Day - From DB` label.
+- Monthly Due Day is editable in owner edit mode.
+- Date Of Join and Monthly Due Day are pre-filled from DB in edit mode.
+- Changing Date Of Join still applies safe date logic and updates due day.
 - Owner Edit People now shows exact saved DB join date and due day.
 - Monthly due day is locked in edit mode until owner changes Date Of Join.
 - If owner changes Date Of Join, due day follows safe date logic.
@@ -141,6 +147,6 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Release Details
 
-Tag: `v1.0.27`
+Tag: `v1.0.28`
 
 Asset name: `app-release.apk`
