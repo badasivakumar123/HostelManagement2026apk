@@ -1,7 +1,7 @@
 {
-  "version": "1.0.23",
-  "build": 24,
+  "version": "1.0.24",
+  "build": 25,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.23/app-release.apk",
-  "message": "Improved Verify Payments UI, removed Cash tab, added UTR copy, settlement search, status cards, and Verify Now recheck."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.24/app-release.apk",
+  "message": "Fixed Verify Payments tab text color and improved settlement filter/list UI for mobile."
 }

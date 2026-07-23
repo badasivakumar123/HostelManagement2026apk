@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.23`
+Version: `1.0.24`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.23/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.24/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Fixed Verify Payments tabs to show white text on blue header.
+- Improved settlement filter layout for mobile screens.
+- Settlement status now shows below each row as a full-width status bar.
+- Improved settlement list spacing and readability.
 - Improved Verify Payments page UI.
 - Removed Cash tab from Verify Payments.
 - Added UTR copy button in pending payment cards.
@@ -119,6 +123,6 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Release Details
 
-Tag: `v1.0.23`
+Tag: `v1.0.24`
 
 Asset name: `app-release.apk`
