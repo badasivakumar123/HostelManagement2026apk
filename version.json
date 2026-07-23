@@ -1,7 +1,7 @@
 {
-  "version": "1.0.31",
-  "build": 32,
+  "version": "1.0.32",
+  "build": 33,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.31/app-release.apk",
-  "message": "Added swipe-to-view notifications, global promotional notifications, and in-app mobile notification bar alerts with sound."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.32/app-release.apk",
+  "message": "Fixed People notification alerts, corrected pending dues, and added complete complaints/issues flow."
 }

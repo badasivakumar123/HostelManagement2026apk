@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.31`
+Version: `1.0.32`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.31/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.32/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,14 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Fixed People-side mobile notification bar alerts while logged in.
+- Notification viewed status now uses per-user read tracking only.
+- Fixed People dashboard pending dues after full payment collection/approval.
+- Added read-only People Profile page.
+- Added People Complaints page with image upload, history, and status.
+- Added Owner Issues page with date and status filters.
+- Owner can Solve or Reject issues and send People notifications.
+- Owner dashboard now shows Issues as solved/pending and rejected/total.
 - Added complete Owner and People notification flow.
 - Notification page now shows unread notifications only.
 - Swipe left or right marks a notification as viewed and removes it from the page.
@@ -164,6 +172,6 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Release Details
 
-Tag: `v1.0.31`
+Tag: `v1.0.32`
 
 Asset name: `app-release.apk`
