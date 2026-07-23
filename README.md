@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.21`
+Version: `1.0.22`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.21/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.22/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,12 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Added Excel settlement upload for PhonePe / Google Pay / bank reports.
+- Added sample Excel download with UTR Number, Amount, and Transaction ID columns.
+- Duplicate settlement UTR numbers are ignored during repeated uploads.
+- Settlement import auto-accepts pending payments when UTR and amount match.
+- Amount mismatch keeps payment pending for owner manual checking.
+- Added settlement import list with selected-date and status filters.
 - Fixed incorrect filtered index issue for UTR setup.
 - Fixed People Pay Rent loading path so rent details and PhonePe QR can load after schema setup.
 - Need To Collect and Pending lists now have direct cash collection button per person.
@@ -106,6 +112,6 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Release Details
 
-Tag: `v1.0.15`
+Tag: `v1.0.22`
 
 Asset name: `app-release.apk`
