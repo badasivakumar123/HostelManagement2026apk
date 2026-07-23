@@ -4,11 +4,11 @@ Public APK download place for Hostel Management 2026.
 
 ## Latest Download
 
-Version: `1.0.25`
+Version: `1.0.26`
 
 Download APK:
 
-https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.25/app-release.apk
+https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.26/app-release.apk
 
 ## App Update JSON
 
@@ -18,6 +18,13 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Latest Changes
 
+- Owner Add/Edit People now keeps existing DB join/due data while editing.
+- Due day follows join date only when owner changes Date Of Join.
+- People Photo and Aadhaar PDF upload moved to top of the owner form.
+- Upload validation messages show below the upload boxes.
+- Added clearer helper message for join date and monthly due day.
+- Dashboard and menu now use cached hostel logo to reduce reload lag.
+- Profile save/load refreshes cached hostel name, user name, and logo.
 - Fixed payment audit truncation for settlement recheck approvals.
 - Increased payment audit action column safety.
 - Blocked owner from accepting/rejecting an already accepted payment again.
@@ -130,6 +137,6 @@ https://raw.githubusercontent.com/badasivakumar123/HostelManagement2026apk/maste
 
 ## Release Details
 
-Tag: `v1.0.25`
+Tag: `v1.0.26`
 
 Asset name: `app-release.apk`

@@ -1,7 +1,7 @@
 {
-  "version": "1.0.25",
-  "build": 26,
+  "version": "1.0.26",
+  "build": 27,
   "forceUpdate": false,
-  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.25/app-release.apk",
-  "message": "Fixed payment audit truncation, blocked re-verifying accepted payments, and strengthened UTR/transaction duplicate checks."
+  "apkUrl": "https://github.com/badasivakumar123/HostelManagement2026apk/releases/download/v1.0.26/app-release.apk",
+  "message": "Improved owner people edit flow, kept saved due data while editing, moved document uploads to top, and cached hostel logo for faster dashboard/menu loading."
 }
